@@ -11,7 +11,7 @@ CyberScout is a Cyber-Threat Intelligence Telegram bot that verifies anyone's vu
 - Completely free.
 Telegram link: https://t.me/CyberScout1337_bot
 
-#Usage
+# Usage
 - Use the '/trace <query>' command to search for a credential.
 
 ![alt text](https://i.imgur.com/LivtQgT.jpeg)

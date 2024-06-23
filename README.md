@@ -18,3 +18,6 @@ Telegram link: https://t.me/CyberScout1337_bot
 ![alt text](https://i.imgur.com/LivtQgT.jpeg)
 ![alt text](https://i.imgur.com/M5tym0X.jpeg)
 
+
+You can support this project here:
+- Paypal: https://paypal.me/iojaiustin

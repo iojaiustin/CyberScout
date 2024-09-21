@@ -7,7 +7,7 @@ import cyberscout
 import threading
 import os
 
-BOT_TOKEN = "6333473690:AAEL-L2hH8zaaEf8DHLMkR_TlXl3US3FWWI"
+BOT_TOKEN = "YOUR-TELEGRAM-BOT-TOKEN"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
